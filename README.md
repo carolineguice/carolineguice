@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @carolineguice
 - 👀 I’m interested in Machine Learning, Natural Language Processing, and AI-driven solutions 
 - 🌱 I’m looking to work on Python, SQL, and R projects 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/ceguice/ 
 
 <!---
